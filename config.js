@@ -1,7 +1,7 @@
 const cfg = {
     currency: {
         language: "en-US",
-        currency: "EUR",
+        // currency: "EUR",
         minimumFractionDigits: 2,
         maximumFractionDigits: 2
     },
