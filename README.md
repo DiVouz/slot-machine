@@ -1,9 +1,11 @@
 # Slot Machine
 Modern slot machine game using only JavaScript (proof of concept).
+
 Made using only pure HTML5 and JavaScript.
 
 The project is not completed but its just a fun-proof of concept project i made on a free day.
-I don't own the Images and the sounds. 
+
+I don't own any of the images and sounds.
 
 Main Slot Page:
 https://divouz.github.io/slot-machine/
