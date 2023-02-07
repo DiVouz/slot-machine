@@ -10,3 +10,8 @@ https://divouz.github.io/slot-machine/
 
 Multipe Instances Slot Page:
 https://divouz.github.io/slot-machine/multiSlot.html
+
+
+# How to play
+Use space to spin
+Use up / down arrow to change bet
