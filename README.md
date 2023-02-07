@@ -1,4 +1,4 @@
-# slot-machine
+# Slot Machine
 Modern casino slot machine game using only JavaScript (proof of concept).
 
 Made using only pure HTML5 and JavaScript.
