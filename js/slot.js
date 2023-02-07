@@ -557,6 +557,21 @@ class Slot {
             this.canvas.width / 2, this.#textSize * 2
         );
 
+        // how to play
+        drawText(this.ctx,
+            ["Space -> Spin"],
+            [cfg.colors.main],
+            "left", this.#textSize * 0.5, "Arial",
+            150 / 2, (this.#textSize * 2)
+        );
+        
+        drawText(this.ctx,
+            ["Up / Down Arrow Keys -> Change Bet"],
+            [cfg.colors.main],
+            "left", this.#textSize * 0.5, "Arial",
+            150 / 2, (this.#textSize * 2) + this.#textSize
+        );
+
         // balance
         drawText(this.ctx,
             ["CREDIT  "],
