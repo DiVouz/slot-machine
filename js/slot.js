@@ -548,18 +548,10 @@ class Slot {
         }
     }
 
-    drawUiText() {
-        // logo
-        drawText(this.ctx,
-            ["SCAM'n GO"],
-            [cfg.colors.main],
-            "left", this.#textSize, "Arial",
-            4, this.#textSize + 4
-        );
-        
+    drawUiText() {        
         // game name
         drawText(this.ctx,
-            ["Book Of Scam"],
+            ["Slot Machine"],
             [cfg.colors.secondary],
             "center", this.#textSize * 2, "Arial",
             this.canvas.width / 2, this.#textSize * 2
